@@ -1,0 +1,23 @@
+{
+  "name": "reacttask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saisuresh-sakthivel/reacttask.git"
+  },
+  "author": "saisuresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saisuresh-sakthivel/reacttask/issues"
+  },
+  "homepage": "https://github.com/saisuresh-sakthivel/reacttask#readme",
+  "dependencies": {
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  }
+}
