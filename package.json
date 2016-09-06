@@ -1,7 +1,7 @@
 {
   "name": "reacttask",
   "version": "1.0.0",
-  "description": "",
+  "description": "\"# reacttask\"",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --hot"
@@ -18,6 +18,13 @@
   "homepage": "https://github.com/saisuresh-sakthivel/reacttask#readme",
   "dependencies": {
     "react": "^15.3.1",
-    "react-dom": "^15.3.1"
+    "react-dom": "^15.3.1"	
+  },
+  "devDependencies": {
+    "babel-core":"^6.14.0",
+	"babel-loader":"^6.2.5",
+	"babel-preset-es2015":"6.14.0",
+	"babel-preset-react":"6.11.1"
+	"webpack":"1.13.2"
   }
 }
